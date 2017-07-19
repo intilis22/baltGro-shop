@@ -42,9 +42,9 @@ $mc['db']['database'] = "";
 $mc['servers'] = array(
 	"MyServer" => (object)array(
 		"title" => "Factions",
-		"ip_address" => "",
-		"rcon_port" => 25575,
-		"rcon_password" => "",
+		"ip_address" => "51.255.101.238",
+		"rcon_port" =>	25566 ,
+		"rcon_password" => "ghdkncvkfhgnjj1h5jh5kn6k7hjf",
 		"show" => true
 	),
 );
